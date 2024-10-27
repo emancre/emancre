@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: 1 year aof, i dind´t know hot to print "Hellow world" in python and now, neither :( jajajaja 
-
+- Extra fun fact: I love to create canva designer or writter histories or anything, in english,spanish, whatever, and like go to run
 <!---
 emancre/emancre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
